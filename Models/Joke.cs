@@ -6,9 +6,9 @@
 		public string JokeQuestion { get; set; }
 		public string JikeAnswer { get; set; }
 
-	// public Joke()
-	// {
+	public Joke()
+	{
 
-	// }
+	}
 	}
 }
