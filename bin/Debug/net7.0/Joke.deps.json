@@ -13,11 +13,11 @@
       }
     }
   },
-  //   "libraries": {
-  //     "Joke/1.0.0": {
-  //       "type": "project",
-  //       "serviceable": false,
-  //       "sha512": ""
-  //     }
-  //   }
-  // }
+  "libraries": {
+    "Joke/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
